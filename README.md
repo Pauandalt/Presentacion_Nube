@@ -49,7 +49,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 
 ## 2. Uso actual
 
-![](https://s04.s3c.es/imag/_v0/770x420/9/a/5/700x420_nube-archivos-770-istock.jpg)
+![](http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2017/04/CAS.png)
 
 ### la situación actual del mercado
 ![](https://pauandalt.github.io/La_Nube/usos_de_nubes.png)
