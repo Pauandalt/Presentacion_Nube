@@ -3,12 +3,16 @@
 Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_Nube/
 ## pase a la siguiente diapositiva para empezar
 
-## ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
-???
+## 
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
 
 ## Introducción 
 <p align="center">
 ### Definición y explicación de qué es la nube
+  > Utilización de las instalaciones propias de un servidor web albergadas por un proveedor de Internet para almacenar, desplegar y ejecutar aplicaciones a petición de los usuarios demandantes de las mismas.
+  
 ### Características:
 + Agilidad
 + Escalabilidad y elasticidad
@@ -17,6 +21,8 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 + Rendimiento
 + Seguridad
 + Mantenimiento
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cloud_computing-es.svg/800px-Cloud_computing-es.svg.png)
 
 ### Ventajas y desventajas
 
@@ -39,6 +45,8 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 >El cambio que ofrece la computación desde la nube es que permite aumentar el número de servicios basados en la red. Esto genera beneficios tanto para los proveedores, que pueden ofrecer, de forma más rápida y eficiente, un mayor número de servicios, como para los usuarios que tienen la posibilidad de acceder a ellos, disfrutando de la ‘transparencia’ e inmediatez del sistema y de un modelo de pago por consumo. Así mismo, el consumidor ahorra los costes salariales o los costes en inversión económica (locales, material especializado, etc.).
 
 ## 2. Uso actual
+
+![](https://s04.s3c.es/imag/_v0/770x420/9/a/5/700x420_nube-archivos-770-istock.jpg)
 
 ### la situación actual del mercado
 ![](https://pauandalt.github.io/La_Nube/usos_de_nubes.png)
