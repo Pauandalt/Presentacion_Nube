@@ -83,7 +83,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 
 ## *Bitcoin*
 
-[![IMAGE ALT TEXT HERE](video_Bitcoin.PNG)](https://www.youtube.com/watch?v=kubGCSj5y3k&ab_channel=SciShow)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_Bitcoin.PNG)](https://www.youtube.com/watch?v=kubGCSj5y3k&ab_channel=SciShow)
 
 ## *Blockchain*
 
