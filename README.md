@@ -17,6 +17,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
   > Utilización de las instalaciones propias de un servidor web albergadas por un proveedor de Internet para almacenar, desplegar y ejecutar aplicaciones a petición de los usuarios demandantes de las mismas.
   
 ### Características:
+
 + Agilidad
 + Escalabilidad y elasticidad
 + Independencia entre el dispositivo y la ubicación
