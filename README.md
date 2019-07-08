@@ -50,7 +50,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 
 ## 2. Uso actual
 
-![](http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2017/04/CAS.png)
+![](https://www.nubit.es/wp-content/uploads/2016/10/cloud-computing.png)
 
 ### la situación actual del mercado
 
@@ -62,7 +62,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 
 ## Almacenamiento en la nube:
 
-![](https://blog.netelip.com/wp-content/uploads/2018/07/almacenamiento-vdrive-comodidad.png)
+![](https://www.mydatascope.com/blog/wp-content/uploads/2018/05/cloud-computing-1989339_960_720-1.png)
 
 ### video 
 
