@@ -52,6 +52,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 ![](http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2017/04/CAS.png)
 
 ### la situación actual del mercado
+
 ![](https://pauandalt.github.io/La_Nube/usos_de_nubes.png)
 
 ### Video: 
@@ -63,6 +64,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_N
 ![](https://blog.netelip.com/wp-content/uploads/2018/07/almacenamiento-vdrive-comodidad.png)
 
 ### video 
+
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
 
 ### Principales proveedores de almacenamiento en la nube:
